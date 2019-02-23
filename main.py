@@ -25,7 +25,6 @@ def plotter(x, y, resx, resy, predx, predy):
     plt.scatter(predx, predy)
     plt.show()
 
-# hello
 
 # ---main---
 stockinput()
