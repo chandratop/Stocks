@@ -1,6 +1,6 @@
 # ML Program to find the equation of a linear regression line
 # of the form y = mdays + c and predict the y for given days
-# test ssh
+
 # importing modules
 import pandas as pd  # to use a .csv file
 import matplotlib.pyplot as plt  # for plotting scatter and regression
