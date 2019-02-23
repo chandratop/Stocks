@@ -15,7 +15,7 @@ def stockinput():
     except IOError:
         print("That stock is not in our database. Try another")
         stockinput()
-#comment
+
 
 def plotter(x, y, resx, resy, predx, predy):
     print('\nPlotting graphs...')
